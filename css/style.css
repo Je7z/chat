@@ -4,6 +4,12 @@
     border: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Abel', sans-serif;
+    letter-spacing: 1px;
+}
+
 .boxing {
     margin: 25px auto;
     width: 600px;
