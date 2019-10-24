@@ -15,6 +15,11 @@ body {
     width: 600px;
 }
 
+body {
+    font-family: 'Abel', sans-serif;
+    letter-spacing: 1px;
+}
+
 .header {
     padding: 10px 15px;
     background-color: #FE5F55;
