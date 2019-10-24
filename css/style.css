@@ -10,7 +10,7 @@
 }
 
 .header {
-    padding: 15px;
+    padding: 10px 15px;
     background-color: #eee;
 }
 
@@ -61,11 +61,17 @@ img {
     margin-right: 5px;
 }
 
+.avatar {
+    display: flex;
+    align-items: center;
+}
+
 .avatar img {
     width: 44px;
     height: 44px;
     display: block;
     border-radius: 25px;
+    margin-right: 25px;
 }
 
 .center-msg {
