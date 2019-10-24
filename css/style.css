@@ -71,3 +71,10 @@ img {
 .center-msg {
     margin: 0 auto;
 }
+
+form input {
+    padding: 15px;
+    background-color: #eee;
+    width: 100%;
+    outline: none;
+}
