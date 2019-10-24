@@ -9,6 +9,11 @@
     width: 600px;
 }
 
+body {
+    font-family: 'Abel', sans-serif;
+    letter-spacing: 1px;
+}
+
 .header {
     padding: 15px;
     background-color: #eee;
