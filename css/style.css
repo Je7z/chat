@@ -4,14 +4,20 @@
     border: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Abel', sans-serif;
+    letter-spacing: 1px;
+}
+
 .boxing {
     margin: 25px auto;
     width: 600px;
 }
 
 .header {
-    padding: 15px;
-    background-color: #eee;
+    padding: 10px 15px;
+    background-color: #FE5F55;
 }
 
 img {
@@ -25,7 +31,7 @@ img {
     width: 600px;
     height: 600px;
     padding: 10px;
-    background-color: aliceblue;
+    background-color: #52B788;
     overflow-y: scroll;
 }
 
@@ -44,9 +50,9 @@ img {
 }
 
 .messages ul div span {
-    background-color: #ccc;
+    background-color: #4F6367;
     padding: 13px;
-
+    color: #FFF;
     border-radius: 2px;
 }
 
@@ -61,11 +67,17 @@ img {
     margin-right: 5px;
 }
 
+.avatar {
+    display: flex;
+    align-items: center;
+}
+
 .avatar img {
     width: 44px;
     height: 44px;
     display: block;
     border-radius: 25px;
+    margin-right: 25px;
 }
 
 .center-msg {
