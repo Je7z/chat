@@ -67,3 +67,7 @@ img {
     display: block;
     border-radius: 25px;
 }
+
+.center-msg {
+    margin: 0 auto;
+}
